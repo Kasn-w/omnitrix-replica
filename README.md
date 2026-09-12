@@ -3,7 +3,7 @@
 
 A wearable replica of the Omnitrix from BEN10 Omniverse, built from a hand sketch through 3D-printed shell to working electronics with display, sound, and WiFi; all functional.
 
-![omnitrix demo](_forREADME/preview.mp4)
+https://github.com/user-attachments/assets/e2240c9e-b4f1-43e2-badf-02dda2eb7e8f
 
 ## About
 - Sketched the design in a notebook
