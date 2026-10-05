@@ -1,5 +1,5 @@
 # Omnitrix
-*Built 2022 (Grade 12)*
+*Built 2024 (Grade 12)*
 
 A wearable replica of the Omnitrix from BEN10 Omniverse, built from a hand sketch through 3D-printed shell to working electronics with display, sound, and WiFi; all functional.
 
